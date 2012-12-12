@@ -1,6 +1,12 @@
 = easy_time_zone
 
-Description goes here.
+It will let users know the current time in the city typed in.
+It also do not care about the upper case and lower case.
+
+* Time.now.in("Seoul")
+  $ current time
+* Time.now.in("seattle")
+  $ current time
 
 == Contributing to easy_time_zone
  

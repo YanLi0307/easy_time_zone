@@ -9,6 +9,15 @@ describe "EasyTimeZone" do
     Time.now.in("Seoul").to_i.should eql Time.now.in("seoul").to_i
   end
 
+  describe "#add_or_subtract_time" do
+    it "should do something " do
+    end
+  end
+
+  describe "#convert_hours_minutes_to_seconds" do
+    it "should do something" do
+    end
+  end
 end
 
 # USAGE:
