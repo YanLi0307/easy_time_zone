@@ -1,3 +1,5 @@
+"!https://travis-ci.org/YanLi0307/easy_time_zone.png!":https://travis-ci.org/YanLi0307/easy_time_zone
+
 = easy_time_zone
 
 It will let users know the current time in the city typed in.
