@@ -1,4 +1,4 @@
-"!https://travis-ci.org/YanLi0307/easy_time_zone.png!":https://travis-ci.org/YanLi0307/easy_time_zone
+[![Build Status](https://travis-ci.org/YanLi0307/easy_time_zone.png)](https://travis-ci.org/YanLi0307/easy_time_zone)
 
 = easy_time_zone
 
