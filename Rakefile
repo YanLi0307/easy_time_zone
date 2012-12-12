@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "easy_time_zone"
   gem.homepage = "http://github.com/YanLi0307/easy_time_zone"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Convert time zones using city names"
+  gem.description = "Use a city name to generate the correct time"
   gem.email = "leeyeon0307@gmail.com"
   gem.authors = ["YanLi0307"]
   # dependencies defined in Gemfile
